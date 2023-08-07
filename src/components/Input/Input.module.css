@@ -1,0 +1,18 @@
+.container {
+  width: 100%
+}
+
+.label {
+  margin-bottom: .4rem;
+  color: white
+}
+
+.input {
+  border: none;
+  outline: none;
+  
+  width: calc(100% - 2rem); /* Adjust the width to consider the padding */
+  
+  padding: .5rem 1rem;
+  border-radius: 1rem;
+}
